@@ -917,3 +917,13 @@ a:focus {
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
+
+
+#ppp {
+  display: flex;
+  text-align: justify;
+  margin-top: 20px;
+
+}
+
+
