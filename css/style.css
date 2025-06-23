@@ -922,8 +922,13 @@ a:focus {
 #ppp {
   display: flex;
   text-align: justify;
-  margin-top: 20px;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+}
 
+#ppp span {
+  margin-top: 20px;
 }
 
 
